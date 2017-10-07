@@ -1,0 +1,22 @@
+{
+  "commitish" : "2.7.2",
+  "iOS" : [
+    {
+      "hash" : "90ff2fdef82b9165f217c9e786eff3441e33c08d3143af828cec368ff7c5de4d",
+      "name" : "FMDB"
+    }
+  ],
+  "xcodeVersion" : "Xcode 8.3.3\nBuild version 8E3004b",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+    {
+      "hash" : "f1571adfb07d293abb173abd9d838bd1a61ae1bf2d125e4033071a8110f22c71",
+      "name" : "FMDB"
+    }
+  ]
+}
